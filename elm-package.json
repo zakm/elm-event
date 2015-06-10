@@ -1,0 +1,17 @@
+{
+    "version": "0.5.0",
+    "summary": "Interface to EventSource",
+    "repository": "http://github.com/zakm/elm-event.git",
+    "license": "MIT",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Event"
+    ],
+    "native-modules": true,
+    "dependencies": {
+        "elm-lang/core": "2.0.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.15.0 <= v < 0.16.0"
+}
